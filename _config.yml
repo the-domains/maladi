@@ -1,15 +1,17 @@
-layout_spectrum: 1
-favicon: null
-name: maladi
-purpose: []
+color:
+  brandStrength: 1
+  saturation: 0.4361702
+  brandColors:
+    - '#FFFFFF'
+    - '#9CDCFD'
+    - '#696C70'
+    - '#E2E1E2'
+  lightness: 0.4787234
+  rhythmicContrast: 0.7255319
 analytics:
-  twitter: null
-  google: null
   facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  google: null
+  twitter: null
 collections:
   - index:
       navigable: true
@@ -23,17 +25,15 @@ collections:
     permalink:
       path: '/:title/'
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-color:
-  brandStrength: 1
-  lightness: 0.4787234
-  saturation: 0.4361702
-  rhythmicContrast: 0.7255319
-  brandColors:
-    - '#FFFFFF'
-    - '#9CDCFD'
-    - '#696C70'
-    - '#E2E1E2'
+favicon: null
+layout_spectrum: 1
+purpose: []
+name: maladi
+opengraph:
+  image: null
+  type: null
+  appId: null
 typography_spectrum: 0.4702128
