@@ -3,9 +3,9 @@ favicon: null
 name: maladi
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -23,14 +23,14 @@ collections:
     permalink:
       path: '/:title/'
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
 color:
   brandStrength: 1
-  lightness: 0.1527171735651791
-  saturation: 0.4800855298526585
-  rhythmicContrast: 0.3986258925870061
+  lightness: 0.4787234
+  saturation: 0.4361702
+  rhythmicContrast: 0.7255319
   brandColors:
     - '#FFFFFF'
     - '#9CDCFD'
