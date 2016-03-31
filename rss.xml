@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[maladi]]></title>
         <description><![CDATA[maladi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/maladi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 06:55:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Mar 2016 06:56:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/maladi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ba4e386-d350-42a3-9e6e-58ddd8d74afb.png">]]></description>
+            <link>https://thegrid.ai/maladi/68d87081-29ac-47dd-b008-b4a681f54ab9/index.html</link>
+            <guid isPermaLink="false">68d87081-29ac-47dd-b008-b4a681f54ab9</guid>
+            <pubDate>Thu, 31 Mar 2016 06:56:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Smart property]]></title>
             <description><![CDATA[<article><h1>Smart property</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b051217818a98711a84e764a59a323a67f32a91c.png"></article>]]></description>
-            <link>undefinedsmart-property/index.html</link>
+            <link>https://thegrid.ai/maladi/smart-property/index.html</link>
             <guid isPermaLink="false">c5820832-96ca-4cd6-bd52-d6f43e64c819</guid>
             <pubDate>Thu, 31 Mar 2016 06:55:10 GMT</pubDate>
         </item>
